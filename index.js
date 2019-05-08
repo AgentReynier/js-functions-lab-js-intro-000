@@ -1,6 +1,6 @@
 // write your code below!
 
-function happyHolidays(greetings) {
+function happyHolidays() {
   return "Happy holidays!"
 }
 
